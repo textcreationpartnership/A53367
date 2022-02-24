@@ -1,0 +1,462 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>One cry more of the innocent and oppressed for justice being a fourth relation of the unjust proceedings of the magistrates in and about the city of London with and against XVII (of the people of God) called Quakers at the IV several sessions hereafter named, where they received the unjust sentence of transportation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53367</idno>
+            <idno type="STC">Wing O336</idno>
+            <idno type="STC">ESTC R26894</idno>
+            <idno type="EEBO-CITATION">09570972</idno>
+            <idno type="OCLC">ocm 09570972</idno>
+            <idno type="VID">43686</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53367)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43686)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1336:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>One cry more of the innocent and oppressed for justice being a fourth relation of the unjust proceedings of the magistrates in and about the city of London with and against XVII (of the people of God) called Quakers at the IV several sessions hereafter named, where they received the unjust sentence of transportation.</title>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  London --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43686:1"/>
+            <pb facs="tcp:43686:1" rendition="simple:additions"/>
+            <p>One Cry more of the Innocent and Oppreſſed FOR JUSTICE: Being A Fourth Relation OF THE Unjuſt Proceedings of the MAGISTRATES in and about the City of <hi>London,</hi> with and againſt XVII. (of the People of God) called <hi>Quakers,</hi> at the IV. ſe<g ref="char:EOLhyphen"/>veral Seſſions hereafter named; where they received the unjuſt Sentence of Tranſportation.</p>
+            <q>
+               <p>He that oppreſſeth the Poor to increaſe his Riches, and he that giveth to the Rich, ſhall ſurely come to want.</p>
+               <bibl>Prov. 22.16.</bibl>
+            </q>
+            <q>
+               <p>For the Oppresſion of the Poor, for the ſighing of the needy, now will I ariſe (ſaith the Lord) I will ſet him in ſafety from him that puffeth at him.</p>
+               <bibl>Pſalm. 12.5.</bibl>
+            </q>
+            <p>Printed in the Year, 1665.</p>
+         </div>
+      </front>
+      <body>
+         <div type="trial">
+            <pb facs="tcp:43686:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:43686:2"/>
+            <head>A ſhort Relation of the Tryal of five of the aforeſaid People, at the Seſsions held at <hi>Hickes-hall</hi> the fourth and ſixth days of the ſecond month (called <hi>April</hi>) <hi>1665.</hi>
+            </head>
+            <p>THe Judges names the Priſoners knew not, but be ſure their ſins will finde them out, <hi>John Francis Tryponet, Ann Haley, Margaret Walsby</hi> and <hi>Francis Marloe,</hi> being all ſet to the Bar, and an Indictment read againſt them which was much to this purpoſe; that they with ſeverall others were met together at an unlawfull meet<g ref="char:EOLhyphen"/>ing, or Sedicious Convinticle, &amp;c. at one <hi>John Elſons</hi> houſe in <hi>Johns-ſtreet</hi> contrary to the Laws of this Realm, notwithſtanding they have been twice convicted before, &amp;c.</p>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>
+                  <hi>John Francis,</hi> guilty or not guilty?</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>As much as I doe underſtand, this Indictment is taken up falſly againſt me, and ſo he was ſet by.</p>
+            </sp>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>
+                  <hi>Anne Haly,</hi> are you guilty or not guilty?</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>This indictment which you have drawn againſt me is falſe, for I was never taken at any meeting, nor had before any Ma<g ref="char:EOLhyphen"/>gi<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ate for being at any meeting, but onely once, neither was I e<g ref="char:EOLhyphen"/>ver Priſoner, or in Priſon before this time, except it was to viſit my friends, ſo that I am not guilty of that indictment.</p>
+            </sp>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>Wee have <hi>Ann Haleys</hi> name twice upon record, and this is your third offence: then anſwer was made ſhe had a Daughter, and her name was <hi>Ann,</hi> and ſhe had been in priſon twice, yet for all it was ſo plainly manifeſted unto them that ſhe had been but once in priſon, as <hi>William Turner</hi> who is one of their own members told them, yet for all this they proceeded againſt her, and paſſed their unjuſt ſentence upon her, <hi>viz.</hi> to be tranſported to the Iſland of <hi>Jamaica</hi> for ſeven years, and as they were carrying her out of the Court, ſhe ſaid, take heed what you doe, for you are about a work that will call for judgement, to come down upon your heads, and one that ſat upon the Bench ſaid, woman, woman, you have mo<g ref="char:EOLhyphen"/>ney enough, pay down one hundred pound, and you ſhall be diſ<g ref="char:EOLhyphen"/>charged</p>
+            </sp>
+            <sp>
+               <speaker>Obſerve.</speaker>
+               <p>Doth it not plainly appear that it is money which they aym at, and that it is not us that they ſeek, but that which we
+<pb n="4" facs="tcp:43686:3"/>have, for that which they call an offence, which we know is none, <hi>viz.</hi> to worſhip God in Spirit and Truth, the penalty of it may be taken off for money; ſo that it is very plain and evident, that inſtead of ſeeking our preſervation, they ſeek our deſtruction.</p>
+               <p>And this unjuſt action of theirs, in ſentencing this antient and innocent Widdow was laid ſo plainly before moſt of them, that had a hand in it, at ſeveral times, and alſo before the whole Court, where ſhe received her unjuſt ſentence; ſo that they were fully per<g ref="char:EOLhyphen"/>ſwaded in themſelves that they had done the ſaid Widdow much wrong, for it was plainly laid before them all, the next Seſſions, yet for all this there was not a man in the Court that would appear to do her Juſtice.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>
+                  <hi>Margaret Welsby</hi> are you guilty or not guilty?</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>Of what?</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Of going to Conventicles, or unlawful Meetings.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>As for Conventicles I deny them, neither am I guilty of any unlawful Meeting, for I own the meeting of the people of God to be lawful: And ſo ſhe was ſet by.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>
+                  <hi>Francis Marloe,</hi> guilty or not guilty:</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>I never was at ſuch a Meeting in all my life as a ſeditious Conventicle, but I meet to wait upon the Lord, to enjoy his Preſence.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>You muſt plead guilty or not guilty.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>I am not guilty of any ſuch thing, as you accuſe me of: And ſo ſhe was ſet by.</p>
+               <p>And then the Witneſſes were called and ſworn againſt the afore<g ref="char:EOLhyphen"/>ſaid four, and the Jury charged with them who went forth, and within a little time returned again, and the Priſoners was ſet to the Bar, and the Jury was asked if they were agreed, and anſwer was made yes.</p>
+            </sp>
+            <sp>
+               <speaker>Clark.</speaker>
+               <p>Are the Priſoners guilty or not guilty?</p>
+            </sp>
+            <sp>
+               <speaker>Jury.</speaker>
+               <p>Guilty: And then the Court ſeemed to rejoyce; and then they paſſed the aforeſaid Sentence upon them, not ſuffering the Priſoners to ſpeak any thing more in their own defence.</p>
+            </sp>
+            <sp>
+               <speaker>Obſ.</speaker>
+               <p>The ſaid <hi>John Francis</hi> aforenamed being a <hi>German,</hi> and not a Subject of this Realm, therefore not within the reach of the late Act; yet notwithſtanding they proceeded againſt him, and paſſed the aforeſaid ſentence upon him.</p>
+               <p>And the next Seſſions after they had received the unjuſt ſentence,
+<pb n="5" facs="tcp:43686:3"/>the aforenamed <hi>Ann Haley,</hi> was had down to the <hi>Old Baily,</hi> by <hi>William Turner</hi> Turnkey of <hi>Newgate,</hi> who ſaid to her by the way, When you come in Court you muſt promiſe never to come amongſt this wicked crue any more, nor go to any more of their Meetings.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>How dareſt thou call them a wicked Crue? for they are the people of the Lord, and I ſhall not promiſe to abſent my ſelf from them. And when ſhe came in Court, they called for the Quaking Womans Paper, and one began to read, ſaying, <hi>Ann Haley</hi> you have been three times convicted in <hi>London;</hi> the Priſoner anſwered, Nay, but once, and ſo he read twice or thrice, and ſhe ſtill made anſwer, Nay but once; then the man ſtopt, and asked her if ſhe was ſorry for what ſhe had done? She anſwered I do not know any thing that I have done to cauſe me to be ſorry: And then they bid take her a<g ref="char:EOLhyphen"/>way, which was done; and ſo returned back to <hi>Newgate,</hi> where ſhe with many more by their unjuſt actings lies liable to be Tranſ<g ref="char:EOLhyphen"/>ported, &amp;c.</p>
+               <p>The ſixt day of the aforeſaid Moneth, <hi>John Horſy</hi> being called to the Bar at <hi>Hickes-Hall,</hi> and an Indictment read againſt him, which was much after the manner and form of the reſt.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Guilty or not guilty?</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>The Indictment is falſe, for I was at no ſuch Meeting, as in contempt to the King, or any in Authority, for our Meetings are peaceable and quiet, and not in contempt to any.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>You muſt plead, Guilty or not guilty.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>Would you have me ſay I am guilty of that which I am not guilty of. And then the Witneſſes were called, and the Clark told the Judge they could do nothing till <hi>William Turner</hi> came, for ſaid he, he may make many ſcruples, and we cannot do without him; and ſo he was ſent for, and when he came, the Judge asked him if he had me from the Meeting on the 19th. day of <hi>March?</hi> He ſaid yes; then I ſaid he hath born falſe witneſs, for he was not at the Meeting to ſee me there, neither did he receive me into his Cuſtody that day; and ſo they charged the Jury with me, and told them that they needed but one Witneſs in this caſe; and then one of the Jury asked another whether they ſhould go out or no? they ſaid, no; the Caſe was clear, and ſo cryed a Verdict preſently, and ſaid the Priſoner was guilty, and then they paſſed the aforeſaid Sentence upon me.</p>
+            </sp>
+         </div>
+         <div type="trial">
+            <pb n="6" facs="tcp:43686:4"/>
+            <head>The Tryal of <hi>Thomas Taylor, Thomas Davis, Edward Pa<g ref="char:EOLhyphen"/>tiſſon, John Fitz Gerrard, John Samon, Hannah Ca<g ref="char:EOLhyphen"/>mack,</hi> and <hi>Anne Standrige,</hi> at the Seſsions at the <hi>Old Bayley</hi> for the City of <hi>London,</hi> the 8th day of the ſecond Month, called <hi>April, 65.</hi> where Judge <hi>Hide</hi> and <hi>Keeling</hi> ſate as Judges.</head>
+            <p>THe Priſoners all being ſet to the Bar, and an Indictment read againſt them, That they were taken at Unlawful Aſſemblies, or Seditious Conventicles, under colour and pretence of the Exer<g ref="char:EOLhyphen"/>ciſe of Religion, in other manner than is allowed by the Liturgy and practice of the Church of <hi>England,</hi> and in contempt to the King and his Laws, his Crown and Dignity, <hi>&amp;c.</hi>
+            </p>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>
+                  <hi>Thomas Taylor,</hi> are you guilty, or not guilty?</p>
+            </sp>
+            <sp>
+               <speaker>Priſon.</speaker>
+               <p>I am not guilty of being at any unlawful Aſſembly, Con<g ref="char:EOLhyphen"/>venticle, or Meeting; and then he was ſet by.</p>
+            </sp>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>
+                  <hi>Thomas Davis,</hi> are you guilty, or not guilty?</p>
+            </sp>
+            <sp>
+               <speaker>Priſon.</speaker>
+               <p>I am innocent, and have wronged no man, neither did I meet contrary to the allowance of the Liturgie, nor in contempt to any in Authority; for the Liturgy doth allow of people to meet together in the worſhip of God. And ſo he was ſet by.</p>
+            </sp>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>
+                  <hi>Edward Patiſſon,</hi> guilty, or not guilty?</p>
+            </sp>
+            <sp>
+               <speaker>Priſon.</speaker>
+               <p>Not guilty. And <hi>John Fitz Gerrard,</hi> and <hi>John Samon</hi> anſwered much to the ſame effect.</p>
+            </sp>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>
+                  <hi>Hannah Camack,</hi> Guilty or not guilty?</p>
+            </sp>
+            <sp>
+               <speaker>Priſon.</speaker>
+               <p>I am not guilty of being at any unlawful Meeting, and <hi>Anne Standrige</hi> made anſwer to the ſame effect.</p>
+               <p>And then the Witneſſes were called, and ſworn, which was the Marſhall and two or three of his men, who ſware that the aforeſaid Priſoners were met together at the Bull and Mouth, naming the day; and one from the Bench asked the Witneſſes, if they knew <hi>Thomas Taylor?</hi> the Marſhall ſaid, yes, very well, for it was as much as three or four of us could do, ſaid he, to get him in at the Counter gate: the Priſoner replyed, yes, and that he had good reaſon to refuſe going with them, becauſe they did abuſe him, for the Marſhall did pluck him by the hair, and did knock his head a<g ref="char:EOLhyphen"/>gainſt the gate, and his man did ſtrike him ſeveral blows on one of
+<pb n="7" facs="tcp:43686:4"/>his legs with his Cain, at which the Judge took no notice, ſo as to reprove them, for their ſo abuſing of him; ſo he told them, that they that made the Laws were the firſt breakers of them, for whereas you ſhould ſend two Juſtices of the Peace, you ſend the wicked Marſhals, and their men, and a company of <hi>Judaſe's</hi> band to abuſe us. Then the Judge ſpake to the Jury, incenſing them againſt us, ſaying, that we were a people that would not be ſubject to Magiſtracy, and that we would not ſwear, (ſwearing being a ſpecial part of Gods Worſhip, &amp;c.) and the Priſoner would have ſpoken more in anſwer to the Judges reviling ſpeeches againſt him, but he was pulled from the Bar; and as they were having him a<g ref="char:EOLhyphen"/>way, he told them that they might have ſaved that labour, as to fetch us from <hi>Newgate,</hi> to make the people believe that they would do us Juſtice, you might as well have ſent us word that we ſhould be baniſhed, and that would have ſaved both you and us the labour.</p>
+            </sp>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>
+                  <hi>Thomas Davis,</hi> what do you ſay yet, are you guilty, or not guilty.</p>
+            </sp>
+            <sp>
+               <speaker>Priſon.</speaker>
+               <p>To what purpoſe ſhould I plead, you might as well ne<g ref="char:EOLhyphen"/>ver have brought me hither to be tryed by twelve men, for its but meerly for faſhion ſake, and to blind the eyes of the people, think<g ref="char:EOLhyphen"/>ing to make them believe we ſhould have a fair Tryal, but he told them, they might as well have ſentenced him before he came thi<g ref="char:EOLhyphen"/>ther, for he did believe they were reſolved what to do, and that it was obſerved, Jury or no Jury was all one, for if they were men that would not violate their conſciences, in condemning the inno<g ref="char:EOLhyphen"/>cent, then they ſhould be threatned, and fines laid upon them, as late experience in that place hath made manifeſt. And then Judge <hi>Keeling</hi> ſtood up, being in a rage to hear of their Injuſtice, and ſaid that the Priſoner was made of nothing but railing, or words to that purpoſe; and further ſaid, that if the Jury bring not in their Ver<g ref="char:EOLhyphen"/>dicts according to the intent and meaning of the Law, that they were not to receive it: to which the Priſoner anſwered, that he did believe the Juries were Judges in matter of Fact, and that they who are called Judges are obliged to receive, and to do juſtly be<g ref="char:EOLhyphen"/>tween man and man; but to this they made no anſwer, and then they commanded that the Priſoner ſhould be taken away, if he would not ſay guilty, or not guilty: then the Priſoner looking upon the Jury, ſaid, that he was innocent, &amp; he would not that they ſhould
+<pb n="8" facs="tcp:43686:5"/>be guilty of his innocent ſufferings: then he was violently taken away and thruſt into the hole amongſt the Felons.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>
+                  <hi>Edward Patiſſon,</hi> what can you ſay for your ſelf?</p>
+            </sp>
+            <sp>
+               <speaker>Priſon.</speaker>
+               <p>I was not at a Meeting that day which the Witneſſes have ſworn they took me on.</p>
+            </sp>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>Where were you then?</p>
+            </sp>
+            <sp>
+               <speaker>Priſon.</speaker>
+               <p>Ask your Witneſſes: then the Judges asked the Wit<g ref="char:EOLhyphen"/>neſſes whereabout they had me? they ſaid in the great room at the Bull and Mouth: then the Judge asked me where I was about 11 or 12 a clock? I ſaid I was at home about the eleventh hour.</p>
+            </sp>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>How came you to be taken then?</p>
+            </sp>
+            <sp>
+               <speaker>Priſon.</speaker>
+               <p>I was at <hi>Ann's lane</hi> end, and two halbert men came be<g ref="char:EOLhyphen"/>hind me, and pulled me by the Coat, and told me I muſt go to the Counter. I asked them for what, they anſwered, they could not tell, but ſaid, you muſt go. Then the Marſhall remembred himſelf, and ſaid, that there was one taken out of the ſtreet at that time, but they taking little notice of it, and I not being ſuffered to ſpeak any more, the Jury brought me in guilty among the reſt. And <hi>John Fitz Gerrard,</hi> and <hi>John Samon</hi> pleaded much to this effect.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>
+                  <hi>Hannah Camak</hi> what did you do at the Bull and Mouth?</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>I was there to worſhip the Lord in Spirit and in Truth.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>You have ſaid well, <hi>That is crime ſufficient:</hi> Take her away.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>Is Worſhipping the Lord in Spirit and in truth become a Crime amongſt you? To which they gave her no anſwer, but ha<g ref="char:EOLhyphen"/>led her away. And ſo the Jury went forth a ſmall time, returned again, and the aforenamed ſeven Priſoners were all ſet to the Bar, and the Jury were asked whether the Priſoners were guilty or not guilty? and anſwer was made guilty; and one <hi>Howell</hi> who is De<g ref="char:EOLhyphen"/>puty Recorder of the City paſſed the unjuſt and unreaſonable ſen<g ref="char:EOLhyphen"/>tence of Tranſportation upon them, to the Iſland of <hi>Jamaica</hi> there to remain for the ſpace of ſeven years; much more paſſed between the Priſoners and the Court, which is not here mentioned; this being onely a Relation in ſhort, to give all or any that deſire to un<g ref="char:EOLhyphen"/>derſtand how we are proceeded againſt, that in time to come none may ſay we did not know of theſe things.</p>
+            </sp>
+         </div>
+         <div type="trial">
+            <pb n="9" facs="tcp:43686:5"/>
+            <head>The Trial of <hi>Robert Witham</hi> at the Sesſions-Houſe in the <hi>Old Baily</hi> the <hi>10.11.</hi> and <hi>12.</hi> dayes of the third Moneth <hi>1665.</hi>
+            </head>
+            <p>HE being called to the Bar, and an Indictment being read againſt him, but he could not well hear what it was by reaſon of the lowneſs of the voice of him that read it, and the great noiſe that was in the Court.</p>
+            <sp>
+               <speaker>Judge Keling.</speaker>
+               <p>Asked him whether he was guilty or not guilty?</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>I am innocent before the Lord, for he knows the ſecrets of all hearts.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>You muſt plead guilty or not guilty.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>What am I guilty of?</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>You have broken the King's Lawes.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>I never had any evil in my heart againſt the King, nor againſt you, ſince I have known the Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>There is a Law that you ſhould not meet above the num<g ref="char:EOLhyphen"/>ber of five.</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>What would you have of me, would you have my life? the Judge ſaid no.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>If the Lord require one thing, and you another, judge you whether I ſhould obey?</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Take him away, and on the 12th. day of the aforeſaid Month they paſſed their unjuſt Sentence upon him, to be tranſpor<g ref="char:EOLhyphen"/>ted to the Iſland of <hi>Iamaica</hi> for the term of ſeven years, he not be<g ref="char:EOLhyphen"/>ing tryed by any Jury; and indeed it made little matter of their calling a Jury, for Jury or no Jury is all one, for that ſame Seſſi<g ref="char:EOLhyphen"/>ons there were three of the people called <hi>Quakers,</hi> that were to be tryed by a Jury, and becauſe the Jury did bring in the verdict ac<g ref="char:EOLhyphen"/>cording to their evidence, and contrary to Judge <hi>Kelings</hi> mind, and what he had intended, he threatned them exceedingly, and fined ten of them one hundred Markes a piece, and committed them to <hi>Newgate,</hi> there to remain without Baile or Mainepriſe, till payment thereof were made: ſo that all people may ſee and take notice what ſervice Juries are of, and what ſervice Lawes are of, for if they would lay all their acts and Statutes aſide, and Juries, and Witneſſes, and ſay it is our wills that ſuch and ſuch things ſhould
+<pb n="10" facs="tcp:43686:6"/>be done againſt you, this would be plainer, and down righter pro<g ref="char:EOLhyphen"/>ceedings then thoſe proceedings which we receive under the pre<g ref="char:EOLhyphen"/>tence of a Law; and verdict of a Jury.</p>
+            </sp>
+         </div>
+         <div type="trial">
+            <head>The Trial of <hi>Joſeph Haugh, Richard Thomſon, William Stevenſon,</hi> and <hi>Mary Dall</hi> at the Sesſions at the <hi>Old Baily,</hi> upon the <hi>22</hi> day of the <hi>4th.</hi> Moneth, called <hi>June, 65,</hi> where one <hi>Keling</hi> ſat as <hi>Judge.</hi>
+            </head>
+            <p>
+               <hi>JOſeph Haugh</hi> being called to the Bar, and an Indictment read a<g ref="char:EOLhyphen"/>gainſt him, much after their old form, and Witneſſes ſworn, the the Judge asked him guilty or not guilty?</p>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>What benefit ſhall I have by pleading? the Judge anſwer<g ref="char:EOLhyphen"/>ed I ſhould be tryed by the Country.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>If the Jury bring me in not guilty ſhall I then be cleared? the Judge ſaid yes; then I ſaid, the Jury might be ſent to Priſon for me.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Oh are you there about, let them look to that, if they did contrary to the Law they ſhould ſuffer, but you ſhall be cleared.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Will you plead guilty or not guilty?</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>Your wills are your Law, you muſt do your pleaſure. Then he ſaid, take him away.</p>
+               <p>Then was ſet to the Bar, <hi>Richard Thomſon, William Stephenſon,</hi> and <hi>Mary Dall,</hi> and an Indictment read againſt them, that they were taken at unlawfull Meetings, or Sedicious Conventicle; where they with others were met together, under colour and pretence of the exerciſe of Religious Worſhip, in other manner then is allowed by the Liturgy of the Church of <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Iudge.</speaker>
+               <p>
+                  <hi>Richard Thomſon</hi> are you guilty or not guilty?</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>I am innocent, and have not offended the Law of God, neither have I wronged any man by word or deed, neither was I at any Seditious Conventicle.</p>
+            </sp>
+            <sp>
+               <speaker>Iudge.</speaker>
+               <p>Will you plead or not?</p>
+            </sp>
+            <sp>
+               <speaker>Priſon.</speaker>
+               <p>What wouldſt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hou have me ſay?</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>You muſt plead guilty or not guilty.</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>I am not guilty.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>
+                  <hi>William Stevenſon</hi> are you guilty or not guilty?</p>
+            </sp>
+            <pb n="11" facs="tcp:43686:6"/>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>I am innocent in the ſight of the Lord, and do not know what evil I have done, neither have I any evil in my heart againſt any man, yet I dare not but fear the Lord more then men.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Take him away.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>
+                  <hi>Mary Dall</hi> are you guilty or not guilty?</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>If I plead it will be little, or if not it will be all one, for your wills is your Law, but we know the Lord will plead our Cauſe.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Take her away.</p>
+            </sp>
+            <p>And then <hi>Richard Thomſon</hi> was called again, and ſome of the <hi>Marſhall</hi>'s Men ſwore againſt him, and the Jury was charged with him, and went forth, and within a little time returned again, and brought in that the Priſoner was guilty of breaking the Law, then the Judge roſe up and ſaid, what verdict was that, the Foreman ſaid again that he was guilty of breaking the Law, the Recorder ſaid that was enough, and then the Priſoner was put in the Hole, and after a little while the four Priſoners were all brought to the Bar, and the unjuſt Sentence of Tranſportation was paſſed upon them.</p>
+            <p>It was obſerved that the ſame Jury at the ſame time, which brought in <hi>Richard Thomſon</hi> guilty, brought in two Fellons not guilty, which appeared in Court to be guilty: but the Innocent was Condemned, and the Guilty Cleared, for which the Lord will Viſit.</p>
+            <p>Much more might have been written concerning the Tryals of the aforeſaid Priſoners, and many Obſervations might be drawn from ſeveral Paſſages, but this is only a Relation in ſhort, ſpread before the unprejudiced Reader to judge of with the Spirit of Meekneſs.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
